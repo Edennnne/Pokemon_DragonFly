@@ -7,6 +7,8 @@ Notre Projet principal est le projet sur le thème Pokémon, on fera un jeu plut
 
 Si ce premier Projet principal ne prend pas forme, nous nous orienterons vers un jeu qui a pour thème le combat, on s'inspire du fameux jeu de combat Super Smash Bros pour le faire, c'est un jeu 1 contre 1, joueur contre joueur ou joueur contre robot (intelligence artificielle) . Le joueur peut incarner plusieurs personnages emblématique du monde du Jeu vidéo par exemple Mario, Pikachu, Link, Donkey Kong... contre d'autre personnages issues de différents Jeux Videos aussi, le combat se passe sur une plateforme aérienne avec plusieurs type de combos possible.
 
+
+
 JEU SIMILAIRE :
 
 - Projet de l'an dernier : https://github.com/williamFlouret/ProjectNSI_Flouret_Bernacki
