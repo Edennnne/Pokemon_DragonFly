@@ -1,6 +1,6 @@
 Exigence:
 1- Un jeu en 2D pixelisé 
-2- (une seule) map limité, assez grande pour s'y aventurer ----- (480/320)
+2- (une seule) map limité, assez grande pour s'y aventurer ----- (480/320) ( cam centrer caractere, map qui bouge)
 3- contrôle exclusivement au clavier (flèches directionnelles + entré ou espace)
 4- map structuré :
   chemin qui mène quelque part
