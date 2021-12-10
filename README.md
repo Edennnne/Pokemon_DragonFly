@@ -41,7 +41,7 @@ Contrôle exclusivement au clavier (flèches directionnelles + entré / espace /
   <br/>
   -ville comportant des bâtiments utiles (centre pokémon servant a soigner ses pokémon), accessible + exécutable et aussi un magasin pour acheter ses potions
   <br/>
-  -PNJ utiles et interactif (donne des récompense (potions, pokéballs) + possibilité de les combattre )
+  -PNJ utiles et interactif (donne des récompenses (potions, pokéballs) + possibilité de les combattre )
   <br/>
  5- INTERFACE UTILISATEUR :
  <br/>
