@@ -21,41 +21,53 @@ JEU SIMILAIRE :
 CARACTERISTIQUE :
 
 
-1- Un jeu en 2D pixelisé
+1- 2D :
 <br/>
-2- Map limité avec une ville et ses alentours, assez grande pour s'y aventurer
+-Un jeu en 2D pixelisé
 <br/>
-3- Contrôle exclusivement au clavier (flèches directionnelles + entré / espace / souris)
+2- MAP 
+<br/>
+-Map limité avec une ville et ses alentours, assez grande pour s'y aventurer
+<br/>
+3- CONTRÔLE : 
+<br/>
+Contrôle exclusivement au clavier (flèches directionnelles + entré / espace / souris)
 <br/>
 4- MAP STRUCTURÉ :
 <br/>
-  chemin qui mène vers d'autres zones, par exemple combat, découverte ou bien la ville avec tous ses batiments
-  hautes herbes (pokémon qui apparaissent de manière aléatoire)
-  ville comportant des bâtiments utiles (centre pokémon servant a soigner ses pokémon), accessible + exécutable et aussi un magasin pour acheter ses potions
-  PNJ utiles et interactif (donne des récompense (potions, pokéballs) + possibilité de les combattre )
+  -chemin qui mène vers d'autres zones, par exemple combat, découverte ou bien la ville avec tous ses batiments
+  <br/>
+  -hautes herbes (pokémon qui apparaissent de manière aléatoire)
+  <br/>
+  -ville comportant des bâtiments utiles (centre pokémon servant a soigner ses pokémon), accessible + exécutable et aussi un magasin pour acheter ses potions
+  <br/>
+  -PNJ utiles et interactif (donne des récompense (potions, pokéballs) + possibilité de les combattre )
   <br/>
  5- INTERFACE UTILISATEUR :
  <br/>
-  hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
+  -hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
   <br/>
 6- AUDIO :
 <br/>
-  musique de combat + de ville 
+  -musique de combat + de ville 
   <br/>
 7- BRUITAGE :
 <br/>
-  lorsque le pokémon attaque
-  Lorsque l'on achète un objet
-  lorsqu'on lance un combat
-  lorsque le joueur perds ou gagne un combat
+  -lorsque le pokémon attaque
+  <br/>
+  -Lorsque l'on achète un objet
+  <br/>
+  -lorsqu'on lance un combat
+  <br/>
+  -lorsque le joueur perds ou gagne un combat
   <br/>
 8- ANIMATION :
 <br/>
-  Pokémon animé en fichier gif
-  déplacement du personnage (ne pas passer sur les maisons, arbres etc..)
-  Lorsque le Pokémon envoie une attaque
-  barre de la vie qui descend ou monte
-  lancement d'un combat
-  si le joueur perd le combat, le joueur réapparait au centre pokemon
-  camera qui suit le personnage (la map bouge et le personnage reste au centre)
+  -Pokémon animé en fichier gif
+  -déplacement du personnage (ne pas passer sur les maisons, arbres etc..)
+  -Lorsque le Pokémon envoie une attaque
+  -barre de la vie qui descend ou monte
+  -lancement d'un combat
+  -si le joueur perd le combat, le joueur réapparait au centre pokemon
+  -camera qui suit le personnage (la map bouge et le personnage reste au centre)
 
