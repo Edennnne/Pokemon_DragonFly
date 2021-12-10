@@ -11,6 +11,7 @@ Si ce premier Projet principal ne prend pas forme, nous nous orienterons vers un
 
 JEU SIMILAIRE :
 
+
 - Projet de l'an dernier : https://github.com/williamFlouret/ProjectNSI_Flouret_Bernacki
 - Projet réalisé dans le cadre d'un devoir universitaire : https://github.com/DuarteVi/pokemon
 - Projet mini jeu Pokemon : https://github.com/cloudStrif/pokemon
@@ -18,4 +19,31 @@ JEU SIMILAIRE :
 
 
 CARACTERISTIQUE :
+
+
+1- Un jeu en 2D pixelisé
+2- map limité avec une ville et ses alentours, assez grande pour s'y aventurer
+3- contrôle exclusivement au clavier (flèches directionnelles + entré / espace / souris)
+4- map structuré :
+  chemin qui mène vers d'autres zones, par exemple combat, découverte ou bien la ville avec tous ses batiments
+  hautes herbes (pokémon qui apparaissent de manière aléatoire)
+  ville comportant des bâtiments utiles (centre pokémon servant a soigner ses pokémon), accessible + exécutable et aussi un magasin pour acheter ses potions
+  PNJ utiles et interactif (donne des récompense (potions, pokéballs) + possibilité de les combattre )
+ 5- interface utilisateur :
+  hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
+6- audio:
+  musique de combat + de ville 
+7- bruitage :
+  lorsque le pokémon attaque
+  Lorsque l'on achète un objet
+  lorsqu'on lance un combat
+  lorsque le joueur perds ou gagne un combat 
+7- animation :
+  Pokémon animé en fichier gif
+  déplacement du personnage (ne pas passer sur les maisons, arbres etc..)
+  Lorsque le Pokémon envoie une attaque
+  barre de la vie qui descend ou monte
+  lancement d'un combat
+  si le joueur perd le combat, le joueur réapparait au centre pokemon
+  camera qui suit le personnage (la map bouge et le personnage reste au centre)
 
