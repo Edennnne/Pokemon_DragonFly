@@ -24,22 +24,28 @@ CARACTERISTIQUE :
 1- Un jeu en 2D pixelisé
 <br/>
 2- map limité avec une ville et ses alentours, assez grande pour s'y aventurer
+<br/>
 3- contrôle exclusivement au clavier (flèches directionnelles + entré / espace / souris)
+<br/>
 4- map structuré :
   chemin qui mène vers d'autres zones, par exemple combat, découverte ou bien la ville avec tous ses batiments
   hautes herbes (pokémon qui apparaissent de manière aléatoire)
   ville comportant des bâtiments utiles (centre pokémon servant a soigner ses pokémon), accessible + exécutable et aussi un magasin pour acheter ses potions
   PNJ utiles et interactif (donne des récompense (potions, pokéballs) + possibilité de les combattre )
+  <br/>
  5- interface utilisateur :
   hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
+  <br/>
 6- audio:
   musique de combat + de ville 
+  <br/>
 7- bruitage :
   lorsque le pokémon attaque
   Lorsque l'on achète un objet
   lorsqu'on lance un combat
-  lorsque le joueur perds ou gagne un combat 
-7- animation :
+  lorsque le joueur perds ou gagne un combat
+  <br/>
+8- animation :
   Pokémon animé en fichier gif
   déplacement du personnage (ne pas passer sur les maisons, arbres etc..)
   Lorsque le Pokémon envoie une attaque
