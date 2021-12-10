@@ -1,0 +1,54 @@
+Exigence:
+1- Un jeu en 2D pixelisé 
+2- map limité, assez grande pour s'y aventurer ----- 480/320
+3- contrôle exclusivement au clavier (flèches directionnelles + entré ou espace)
+4- map structuré :
+  chemin qui mène quelque part
+  hautes herbes (pkmn random)
+  ville (batiment utile accessible + executable)
+  PNJ utiles (donne des quêtes contre récompense + combat) 
+5- interface utilisateur :
+  hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
+6- audio:
+  musique de combat + de ville 
+  SFX:
+    atk pkmn
+    centre pkmn
+    achat 
+    lancement combat
+    perte ou win
+7- animation :
+  pkmn en gif 
+  déplacement du personnage (pas passer sur les maisons, arbres etc..)
+  pkmn en pleine atk
+  barre de la vie qui descend ou monte
+  lancement combat
+  perte (reaparition centre pokemon) ou win
+  camera qui suit le persnnnage 
+  8- image:
+    perso
+    PNJ
+    Pokemon
+    arber
+    herbe (fougere)
+    ville
+    chemin
+    eau
+    ombre
+    (nuit)
+    jour
+    limite
+    barriere
+    pierre
+    fleur
+   9- interface combat (image)
+   potion -differents types)
+   attaque
+   defence
+   inventaire (sac)
+   vie des pokemon
+   fuir
+  10- Code (pourcentage)
+  pourcentage de dégat de chaque attaque
+  pourcentage d'esquive
+  pourcentage de trouver un pokemon dans les herbes
