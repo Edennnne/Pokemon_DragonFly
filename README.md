@@ -22,6 +22,7 @@ CARACTERISTIQUE :
 
 
 1- Un jeu en 2D pixelisé
+<br/>
 2- map limité avec une ville et ses alentours, assez grande pour s'y aventurer
 3- contrôle exclusivement au clavier (flèches directionnelles + entré / espace / souris)
 4- map structuré :
