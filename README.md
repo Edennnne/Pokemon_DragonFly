@@ -67,25 +67,28 @@ Contrôle exclusivement au clavier (flèches directionnelles + entré / espace /
   -si le joueur perd le combat, le joueur réapparait au centre pokemon
   -camera qui suit le personnage (la map bouge et le personnage reste au centre)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
