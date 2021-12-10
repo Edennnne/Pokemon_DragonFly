@@ -27,7 +27,7 @@ CARACTERISTIQUE :
 <br/>
 2- MAP 
 <br/>
-- (Une seule ) Map limité avec une ville et ses alentours, assez grande pour s'y aventurer
+-(Une seule) Map limité avec une ville et ses alentours, assez grande pour s'y aventurer
 <br/>
 3- CONTRÔLE : 
 <br/>
