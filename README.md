@@ -13,6 +13,7 @@ JEU SIMILAIRE :
 
 - Projet de l'an dernier : https://github.com/williamFlouret/ProjectNSI_Flouret_Bernacki
 - Projet réalisé dans le cadre d'un devoir universitaire : https://github.com/DuarteVi/pokemon
+- Projet mini jeu Pokemon : https://github.com/cloudStrif/pokemon
 
 
 
