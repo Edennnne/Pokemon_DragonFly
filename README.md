@@ -1,26 +1,29 @@
-# Pokemon_DragonFly
-Projet Pokemon en groupe avec Aryan, Ronan et Eden.
-PROJET :
+# **Pokemon_DragonFly**
+
+*Projet Pokemon en groupe avec Aryan, Ronan et Eden.
+
+##PROJET :
 Notre groupe est composé de Ronan Aryan et Eden.
 
 Notre Projet principal est le projet sur le thème Pokémon, on fera un jeu plutôt ouvert, c'est à dire le joueur pourra se promener dans un grand environnement avec des zones (ville, plaine...). Il pourra y attraper des Pokémon, combattre des dresseurs , faire soigner ses Pokémon etc... Nos priorité pour l'instant c'est d'avoir un système de rencontre aléatoire de Pokémon dans les hautes herbes, une mechanique de combats (combat entre deux pokémon amusant), la jouabilité hors combats c'est à dire se promener sur la map.
 
-EXEMPLE DE JEU SIMILAIRE :
+##EXEMPLE DE JEU SIMILAIRE :
 
 
 - Projet de l'an dernier : https://github.com/williamFlouret/ProjectNSI_Flouret_Bernacki
 - Projet réalisé dans le cadre d'un devoir universitaire : https://github.com/DuarteVi/pokemon
 - Projet mini jeu Pokemon : https://github.com/cloudStrif/pokemon
 
-EXEMPLE VISUEL DE CE QU'ON SOUHAITE FAIRE :
+##EXEMPLE VISUEL DE CE QU'ON SOUHAITE FAIRE :
 
-:------------------------------------:|:-------------------------------------:
-![image](https://user-images.githubusercontent.com/95481171/145786051-32a6f91d-5258-4a9d-912d-7aad599d7e72.png)  |  ![image](https://user-images.githubusercontent.com/95481171/145786189-3ab1e07e-30dd-4a49-9818-7fa5891420f2.png)
+![image](https://user-images.githubusercontent.com/95481171/145786051-32a6f91d-5258-4a9d-912d-7aad599d7e72.png)  
+
+![image](https://user-images.githubusercontent.com/95481171/145786189-3ab1e07e-30dd-4a49-9818-7fa5891420f2.png)
 
 ![gif](https://64.media.tumblr.com/61606b0eb6a0e85f5808ead926536e2f/tumblr_nipbgzqf8o1t0pgjqo1_640.gifv)
 
 
-CARACTERISTIQUE :
+##CARACTERISTIQUE :
 
 
 1- 2D :
