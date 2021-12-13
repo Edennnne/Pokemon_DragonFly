@@ -20,7 +20,7 @@ EXEMPLE VISUEL DE CE QU'ON SOUHAITE FAIRE :
 
 ![image](https://user-images.githubusercontent.com/95481171/145786472-e132c3e1-b07f-45f5-9350-10e5495c00a4.png)
 
-![image](https://user-images.githubusercontent.com/95481171/145787721-20cf13cc-30c9-4049-bbb1-83e96323e1e7.png)
+![alt text](https://user-images.githubusercontent.com/95481171/145787721-20cf13cc-30c9-4049-bbb1-83e96323e1e7.gif)
 
 
 CARACTERISTIQUE :
