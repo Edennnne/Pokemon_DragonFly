@@ -12,11 +12,15 @@ EXEMPLE DE JEU SIMILAIRE :
 - Projet réalisé dans le cadre d'un devoir universitaire : https://github.com/DuarteVi/pokemon
 - Projet mini jeu Pokemon : https://github.com/cloudStrif/pokemon
 
+EXEMPLE VISUEL DE CE QU'ON SOUHAITE FAIRE :
+
 ![image](https://user-images.githubusercontent.com/95481171/145786051-32a6f91d-5258-4a9d-912d-7aad599d7e72.png)
 
 ![image](https://user-images.githubusercontent.com/95481171/145786189-3ab1e07e-30dd-4a49-9818-7fa5891420f2.png)
 
 ![image](https://user-images.githubusercontent.com/95481171/145786472-e132c3e1-b07f-45f5-9350-10e5495c00a4.png)
+
+![image](https://user-images.githubusercontent.com/95481171/145787721-20cf13cc-30c9-4049-bbb1-83e96323e1e7.png)
 
 
 CARACTERISTIQUE :
