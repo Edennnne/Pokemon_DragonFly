@@ -5,13 +5,18 @@ Notre groupe est composé de Ronan Aryan et Eden.
 
 Notre Projet principal est le projet sur le thème Pokémon, on fera un jeu plutôt ouvert, c'est à dire le joueur pourra se promener dans un grand environnement avec des zones (ville, plaine...). Il pourra y attraper des Pokémon, combattre des dresseurs , faire soigner ses Pokémon etc... Nos priorité pour l'instant c'est d'avoir un système de rencontre aléatoire de Pokémon dans les hautes herbes, une mechanique de combats (combat entre deux pokémon amusant), la jouabilité hors combats c'est à dire se promener sur la map.
 
-JEU SIMILAIRE :
+EXEMPLE DE JEU SIMILAIRE :
 
 
 - Projet de l'an dernier : https://github.com/williamFlouret/ProjectNSI_Flouret_Bernacki
 - Projet réalisé dans le cadre d'un devoir universitaire : https://github.com/DuarteVi/pokemon
 - Projet mini jeu Pokemon : https://github.com/cloudStrif/pokemon
 
+![image](https://user-images.githubusercontent.com/95481171/145786051-32a6f91d-5258-4a9d-912d-7aad599d7e72.png)
+
+![image](https://user-images.githubusercontent.com/95481171/145786189-3ab1e07e-30dd-4a49-9818-7fa5891420f2.png)
+
+![image](https://user-images.githubusercontent.com/95481171/145786472-e132c3e1-b07f-45f5-9350-10e5495c00a4.png)
 
 
 CARACTERISTIQUE :
