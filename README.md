@@ -20,7 +20,7 @@ EXEMPLE VISUEL DE CE QU'ON SOUHAITE FAIRE :
 
 ![image](https://user-images.githubusercontent.com/95481171/145786472-e132c3e1-b07f-45f5-9350-10e5495c00a4.png)
 
-![alt text](https://64.media.tumblr.com/61606b0eb6a0e85f5808ead926536e2f/tumblr_nipbgzqf8o1t0pgjqo1_640.gifv)
+![gif](https://64.media.tumblr.com/61606b0eb6a0e85f5808ead926536e2f/tumblr_nipbgzqf8o1t0pgjqo1_640.gifv)
 
 
 CARACTERISTIQUE :
