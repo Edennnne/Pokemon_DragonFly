@@ -66,7 +66,7 @@
 </pre>
 
 
-➤ ORGANISATION, PLANNING, COMMENT VA-T-ON PRECEDER POUR LA CREATION DU PROJET :
+➤ **ORGANISATION, PLANNING, COMMENT VA-T-ON PRECEDER POUR LA CREATION DU PROJET** :
 <br/>
 
 *Tout d'abord nous comptons terminer notre Projet en 9 semaines voir 10, on aimerais avoir une marge de 2 semaines pour pouvoir travailler et corriger les bugs présents pour que le jeu soit parfait pour le rendre. Nous allons continuer et avancer chez nous pour gagner du temps si jamais et avoir de l'avance pour pouvoir aouter un peu plus de détails au jeu
