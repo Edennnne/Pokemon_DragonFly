@@ -44,10 +44,10 @@
     ┗ PNJ utiles et interactif (donne des récompenses (potions, pokéballs) + possibilité de les combattre )
     
 ✦ INTERFACE UTILISATEUR :
-  ┗ hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
+    ┗ hotbar des pokémons (pokémon visible sur l'écran avec leur barres de vies)
 
 ✦ AUDIO :
-  ┗ musique de combat + de ville 
+    ┗ musique de combat + de ville 
 
 ✦ BRUITAGE :
     ┣ lorsque le pokémon attaque
@@ -114,6 +114,7 @@
 
 
 
+</pre>
 
 
 
