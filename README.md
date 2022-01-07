@@ -74,7 +74,7 @@
 ✦ 4ème semaine :
    ┣ création des PNJ par Eden 
    ┣ Début du programme → création de la fenêtre : titre, taille, miniature par Ronan
-   ┣ Progammer les mouvements du personnages
+   ┣ Progammer les mouvements du personnages par Aryan
    ┗ création de la map par Aryan
    
 ✦ 5ème semaine : 
